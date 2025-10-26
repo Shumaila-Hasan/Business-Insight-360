@@ -118,7 +118,7 @@ Enhanced ROI measurement by linking campaign costs with revenue impact.
 
 #  Executive Overview
 
-![Executive Overview}(https://github.com/Shumaila-Hasan/Business-Insight-360/blob/main/Executive%20View.png)
+![Executive Overview](https://github.com/Shumaila-Hasan/Business-Insight-360/blob/main/Executive%20View.png)
 
 
  # Objectives
