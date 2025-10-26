@@ -100,7 +100,7 @@ Enabled data-backed decision-making for procurement and distribution planning.
 
 #  Marketing Insights
 
-![Marketing Insights]()
+![Marketing Insights](https://github.com/Shumaila-Hasan/Business-Insight-360/blob/main/Marketing%20View.png)
 
 
  Objectives
