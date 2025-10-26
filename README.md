@@ -43,7 +43,7 @@ Tools Used: Power Query, Power BI, DAX
 
 # Finance Insights
 
-![ Finance Insights]()
+![ Finance Insights](https://github.com/Shumaila-Hasan/Business-Insight-360/blob/main/Finance%20View.png)
 
 
  Objectives
