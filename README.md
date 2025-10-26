@@ -62,7 +62,7 @@ Delivered real-time budget vs. actual variance analysis for strategic review.
 
  #  Sales Performance
 
- ![Sales Performance]()
+ ![Sales Performance](https://github.com/Shumaila-Hasan/Business-Insight-360/blob/main/Sales%20View.png)
 
  
  Objectives
