@@ -22,6 +22,10 @@ gdb056: freight_cost, gross_price, manufacturing_cost, post_invoice_deductions, 
 
 Fiscal year: September to August, data span: Sep 2017 – Dec 2021
 
+# Data Model
+
+![data]()
+
 # Data Cleaning & Transformation
 
 Removed spaces and standardized naming conventions.
