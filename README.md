@@ -46,13 +46,13 @@ Tools Used: Power Query, Power BI, DAX
 ![ Finance Insights](https://github.com/Shumaila-Hasan/Business-Insight-360/blob/main/Finance%20View.png)
 
 
- Objectives
+#Objectives
 
 Improve financial planning, forecasting, and budgeting accuracy.
 
 Monitor cost structures and enhance profitability tracking.
 
- Achievements
+#Achievements
 
 Built financial models for expense control and cost optimization.
 
@@ -65,13 +65,13 @@ Delivered real-time budget vs. actual variance analysis for strategic review.
  ![Sales Performance](https://github.com/Shumaila-Hasan/Business-Insight-360/blob/main/Sales%20View.png)
 
  
- Objectives
+ #Objectives
 
 Expand market reach and identify revenue growth opportunities.
 
 Utilize customer insights to craft targeted sales strategies.
 
- Achievements
+ #Achievements
 
 Created dynamic, interactive sales reports segmented by product, region, and customer type.
 
@@ -84,13 +84,13 @@ Highlighted top-performing customers and underperforming segments for actionable
  ![Supply Chain Optimization](https://github.com/Shumaila-Hasan/Business-Insight-360/blob/main/Supply%20Chain%20View.png)
 
  
- Objectives
+ #Objectives
 
 Improve demand forecasting and optimize inventory planning.
 
 Identify inefficiencies to strengthen supply chain reliability.
 
- Achievements
+ #Achievements
 
 Analyzed forecast accuracy and demand–supply balance across regions.
 
@@ -103,13 +103,13 @@ Enabled data-backed decision-making for procurement and distribution planning.
 ![Marketing Insights](https://github.com/Shumaila-Hasan/Business-Insight-360/blob/main/Marketing%20View.png)
 
 
- Objectives
+ #Objectives
 
 Strengthen brand visibility and improve customer engagement.
 
 Optimize marketing spend using real-time campaign performance data.
 
- Achievements
+ #Achievements
 
 Identified regional market trends and product performance drivers.
 
@@ -119,7 +119,7 @@ Enhanced ROI measurement by linking campaign costs with revenue impact.
 
 #  Executive Overview
 
-![Executive Overview}()
+![Executive Overview}(https://github.com/Shumaila-Hasan/Business-Insight-360/blob/main/Executive%20View.png)
 
 
  Objectives
