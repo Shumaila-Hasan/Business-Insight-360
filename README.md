@@ -40,6 +40,102 @@ Data Model: Optimized for fast analysis
 
 Tools Used: Power Query, Power BI, DAX
 
+
+# Finance Insights
+
+![ Finance Insights]()
+
+
+ Objectives
+
+Improve financial planning, forecasting, and budgeting accuracy.
+
+Monitor cost structures and enhance profitability tracking.
+
+ Achievements
+
+Built financial models for expense control and cost optimization.
+
+Developed KPI-driven tracking for revenue and margin performance.
+
+Delivered real-time budget vs. actual variance analysis for strategic review.
+
+ #  Sales Performance
+
+ ![Sales Performance]()
+
+ 
+ Objectives
+
+Expand market reach and identify revenue growth opportunities.
+
+Utilize customer insights to craft targeted sales strategies.
+
+ Achievements
+
+Created dynamic, interactive sales reports segmented by product, region, and customer type.
+
+Implemented KPI dashboards to track customer retention and sales performance.
+
+Highlighted top-performing customers and underperforming segments for actionable sales initiatives.
+
+#  Supply Chain Optimization
+
+ ![Supply Chain Optimization]()
+
+ 
+ Objectives
+
+Improve demand forecasting and optimize inventory planning.
+
+Identify inefficiencies to strengthen supply chain reliability.
+
+ Achievements
+
+Analyzed forecast accuracy and demand–supply balance across regions.
+
+Built supplier performance and logistics efficiency metrics to reduce stockouts and excess inventory.
+
+Enabled data-backed decision-making for procurement and distribution planning.
+
+#  Marketing Insights
+
+![Marketing Insights]()
+
+
+ Objectives
+
+Strengthen brand visibility and improve customer engagement.
+
+Optimize marketing spend using real-time campaign performance data.
+
+ Achievements
+
+Identified regional market trends and product performance drivers.
+
+Provided data-driven segmentation and targeting recommendations.
+
+Enhanced ROI measurement by linking campaign costs with revenue impact.
+
+#  Executive Overview
+
+![Executive Overview}()
+
+
+ Objectives
+
+Deliver an at-a-glance summary of overall business health.
+
+Empower leaders to make data-backed, strategic decisions.
+
+ Achievements
+
+Developed an executive dashboard summarizing key business KPIs.
+
+Visualized revenue, profit, and cost breakdowns across departments and regions.
+
+Enabled drill-through navigation for deeper exploration of financial and operational data.
+
 # Insights
 
 Business Growth & Financial Performance:
