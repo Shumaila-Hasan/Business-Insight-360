@@ -1,6 +1,6 @@
 # Business-Insight-360
 
-Problem Statement
+# Problem Statement
 
 AtliQ relied on scattered Excel sheets for analytics, leading to slow decision-making and losses, especially during Latin American expansion. Competitors using advanced analytics gained an edge. The project aims to implement a centralized data analytics solution to improve transparency, efficiency, and strategic decision-making.
 
@@ -37,8 +37,6 @@ Added calculated fields for deductions and optimized Power BI model by disabling
 Dashboard: Executive, Finance, Sales, Marketing, Supply Chain, and Key Performer views
 
 Data Model: Optimized for fast analysis
-
-Support Panel: Options for issue resolution, feedback, feature requests, and contingency plans
 
 Tools Used: Power Query, Power BI, DAX
 
