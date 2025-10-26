@@ -81,7 +81,7 @@ Highlighted top-performing customers and underperforming segments for actionable
 
 #  Supply Chain Optimization
 
- ![Supply Chain Optimization]()
+ ![Supply Chain Optimization](https://github.com/Shumaila-Hasan/Business-Insight-360/blob/main/Supply%20Chain%20View.png)
 
  
  Objectives
