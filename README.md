@@ -24,7 +24,7 @@ Fiscal year: September to August, data span: Sep 2017 – Dec 2021
 
 # Data Model
 
-![data](https://github.com/Shumaila-Hasan/Business-Insight-360/blob/main/360%20data%20model.png)
+![Data Model](https://github.com/Shumaila-Hasan/Business-Insight-360/blob/main/360%20data%20model.png)
 
 # Data Cleaning & Transformation
 
